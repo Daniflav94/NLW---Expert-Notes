@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Expert-Notes
 
 Essa aplicação foi desenvolvida durante as aulas do evento NLW da RocketSeat utilizando as tecnologias: React, TypeScript, Tailwind CSS, biblioteca Radix UI e biblioteca Sooner.
 
